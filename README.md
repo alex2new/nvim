@@ -1,2 +1,2 @@
 # nvim
-my nvim confg
+This is really my config for nvim to download quickly
